@@ -60,7 +60,7 @@ const FONT_IMPORT_URL =
   "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Jost:wght@300;400;500;600&family=Noto+Sans+Devanagari:wght@400;500;600;700&display=swap";
 
 const HALL_NAME = "Shri Radhakant Garden";
-const ADMIN_PASSCODE = "admin123";
+const ADMIN_PASSCODE = "Radhakantji12";
 const AVAILABILITY_START = new Date(2026, 10, 1); // November 2026
 
 /* ---------------------------------------------------------
